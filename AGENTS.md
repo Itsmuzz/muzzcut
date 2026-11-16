@@ -44,6 +44,6 @@ A short map for contributors and AI coding assistants.
   step cannot open paths longer than 260 characters on Windows.
 - **Secrets** are read from the environment or from files named by `*_FILE` settings. Never write a key, a real
   address or a personal path into a tracked file.
-- **Pages** are plain HTML, CSS and JavaScript. Keep the existing palette, no shadows, and hover states that
+- **Pages** are plain HTML, CSS and JavaScript. Keep the Muzzcut palette (indigo `#7C5CFF`, ink `#14112B`, lime `#C6FF3D`), no shadows, and hover states that
   change colour only.
 - Comments and messages are written in plain language for people who do not program. Keep that tone.

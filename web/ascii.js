@@ -4,8 +4,8 @@
    Usage: PeakAscii(canvasElement, {strength: 1}). Pauses off screen and when the tab is hidden; still for reduced motion. */
 (function () {
   const GLYPHS = "-=+xX+x=";
-  const CLOUD = [[255, 206, 166], [255, 228, 198], [255, 192, 146], [255, 238, 220]];
-  const INK = "214,120,52";
+  const CLOUD = [[206, 196, 255], [226, 220, 255], [190, 176, 255], [238, 234, 255]];
+  const INK = "110,84,230";
 
   const P = new Uint8Array(512);
   (function () { const p = []; for (let i = 0; i < 256; i++) p[i] = i;
